@@ -111,6 +111,13 @@ Foodie/
 - `GET /api/reservations` - Get all reservations
 - Additional endpoints can be added as needed
 
+## 📋 Development History
+
+### Commit History
+- **Initial Commit**: Foodie restaurant website with React frontend and Node.js backend
+- **Second Commit**: Remove sensitive config.env from tracking and add example config file
+- **Latest Update**: Add comprehensive README for the Foodie project
+
 ## 🤝 Contributing
 
 We welcome contributions! Please feel free to:
